@@ -1,0 +1,5 @@
+Identity Server (AspNet Identity iþlemleri, sqlServer)
+Catalog microservis(AutoMapper,DependencyInjection,JwtBearer,MongoDb)
+Discount microservis(Dapper,JwtBearer,SqlServer(linux) )
+Order microservis(MediatR,JwtBearer,SqlServer(linux))
+Basket microservice(Redis,JwtBearer)

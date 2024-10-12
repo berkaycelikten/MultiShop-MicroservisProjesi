@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "MultiShop.RabbitMqMessageApi.Controllers.MessageController",
+    "Method": "CreateMessage",
+    "RelativePath": "api/Message",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

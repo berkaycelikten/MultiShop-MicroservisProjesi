@@ -1,0 +1,10 @@
+ocelot  5000
+ýdentity 5001
+catalog https://localhost:7057
+discount https://localhost:7058
+order 7059
+Cargo 7060
+basket 7061
+comment 7062
+payment 7063
+Images 7064
