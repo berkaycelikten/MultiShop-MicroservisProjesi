@@ -13,7 +13,7 @@ API Gateway: Mikroservisler için Ocelot kullanarak API yönlendirmesi.
 Swagger: API dökümantasyonu.
 CQRS Design Pattern, Mediator Design Pattern, Repository Design Pattern: Modern tasarım desenleri.
 SignalR: Gerçek zamanlı iletişim.
-Projede Yer Alan Başlıca Özellikler
+<h3>Projede Yer Alan Başlıca Özellikler</h3>
 Farklı kullanıcı rolleri için özelleştirilmiş yetkilendirme (kullanıcı, misafir, admin).
 JWT Bearer ile güvenli oturum yönetimi.
 Çoklu veri tabanı desteği.
